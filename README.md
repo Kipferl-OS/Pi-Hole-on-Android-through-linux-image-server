@@ -150,12 +150,11 @@ As an ending note, I have also tried comparing the results in terms of intention
 
 > **1st Instance**, accessing the website through another phone while being connected on a common SIM data network:
 
-Insert screenshot iphone1
+![colaj adware](https://user-images.githubusercontent.com/92034177/148467798-d27e99d9-79c8-49df-b2da-5a6267079708.png)
 
 > **2nd Instance**, to be noted that some of the ads may still show as clickable, but in the end, the connection routes to "nowhere", simply becoming inaccessible.
 
-Insert screenshot iphone2
-
+![WhatsApp Image 2022-01-07 at 01 31 25(4)](https://user-images.githubusercontent.com/92034177/148467826-80970800-76c8-4425-991c-d2ccdbc41ba2.jpeg)
 
 **[Time for some fun: adding a pinch of a nice looking terminal for both your desktop & Pi-Hole device]**
 
@@ -165,7 +164,7 @@ You may have most probably already got to see the picture at the very beginning 
 
 You can check its official guide, but essentially the APP simply works as a very intuitive and customizable interface for running a terminal session directly from your phone. Once you're in, you may deploy a new SSH connection to your Android's internal IP address (SSH connectivity is by default enabled in this APP) and enter in the Pi-Hole environment. ~~After that, we will have to install [**PADD**](https://github.com/pi-hole/PADD) to obtain the more expansive version of the original **chronometer.sh** that is included with [**Pi-Hole**](https://pi-hole.net).~~ > I just found out that with the recent available version, PADD comes installed automatically along the whole** Pi-Hole set up, thumbs up for having to go through even less hassle :smiley:! Here's an example of how it should be run:
 
-Insert first gif/video recorded from terminal
+https://user-images.githubusercontent.com/92034177/148467895-c1801f37-99ee-49dd-8e46-0a459a614ac0.mp4
 
 2. Now that the whole environment is ready to go, the only thing left for achieving our *kitschy* futuristic look, is to go back on our Linux desktop (assuming you're using one; MacOS has installation support too, but AFAIK,  I am sorry for the sole users of Windows, it's not really available there), and grab a copy of [**cool-retro-term**](https://github.com/Swordfish90/cool-retro-term). I won't get into details about the installation steps here, considering that there's a specific way of having it on each available distribution. Believe me, it will not take you more than 2-3 terminal commands to have it up and running! Here's a quick self-recorded demonstration from which you will be convinced how easy it is to get it:
 
