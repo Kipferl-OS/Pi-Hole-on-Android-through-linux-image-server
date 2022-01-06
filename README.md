@@ -54,11 +54,15 @@ Download the **Pi-hole for Android disk image**: (**v1.4 / December 23, 2021**)
 
 Open **Linux Deploy** and have the options from the screenshots below manually changed **only** so that they match (apart from the SSH login credentials):
 
-Insert screenhost 1 & 2
+![1](https://user-images.githubusercontent.com/92034177/148466149-48204793-e911-4bac-ba78-47dd452c4844.png)
+
+> Followed by:
+
+![2](https://user-images.githubusercontent.com/92034177/148466225-30b6888e-fa8d-412c-8a16-bbe8cec35276.png)
 
 Go back to the main window, click **Options** Menu (three dots type of menu, should be located at the top right of the screen), and click **Install**:
 
-Insert screenshot 3
+![3](https://user-images.githubusercontent.com/92034177/148466246-11c52ec0-1cc2-4844-84c5-9c79ad7b922a.png)
 
 If installation turns to be complete & successful, the Linux Deploy console window will show this (or similar) console output: 
 
@@ -86,7 +90,11 @@ Lastly, open the 'Hamburger menu' (Three dashes at top left) and press on **Sett
 
 Touch the **[ ▸ START ]** button and confirm. 
 
-Insert screenshot 4 & 5 
+![4](https://user-images.githubusercontent.com/92034177/148466303-5f8e1ce7-9a56-41ef-b4f0-547d2d384855.png)
+
+> Followed by:
+
+![5](https://user-images.githubusercontent.com/92034177/148466324-56a014e5-ae81-4e1c-b160-6b7b07708080.png)
 
 *Voilà!* You've just got your old Android 'pal up and running with Pi-Hole! Turns out it's the coolest phone out there in the neighbourhood :sunglasses:!
 
@@ -119,7 +127,7 @@ In such circumstances, I considered that there are two aspects that can be furth
  - [x] Take advantage of **[AccA - Advanced Charging Controller](https://github.com/VR-25/acc)** (all credits go to the creators of the app): A completely configurable tool that allows controlling how your device charges. Some various settings and tweaks can be accessed to obtain the best performance out of the battery usage & have the phone run in safe conditions. 
  In the case of deploying Pi-Hole, I chose to use the default **Cool down after 60%** custom profile, which does not let the phone jump over 80% of charged battery (very "healthy" for the Li-Ion type of batteries. And, while plugged in, the phone will freeze the charging at 60%, take a short break, go under a slow charge cycle that prevents overheating until 70%, and, finally, the cycle would go back to normal until it reaches 80% again. Surely, there are much more settings to play around with, and, especially thanks to the flexibility of this app, you may very well achieve even better results & ways of preserving the battery in good condition. Here's how the profile looks within the APP:
 
-Insert screenshot 6
+![6](https://user-images.githubusercontent.com/92034177/148466376-70fd56e0-da70-41b5-98af-84e85263e6d0.png)
 
 **[Expanding Pi-Hole functionality and defending yourself from the toxic online media envinronment]**
 
