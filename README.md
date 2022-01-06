@@ -164,11 +164,11 @@ You may have most probably already got to see the picture at the very beginning 
 
 You can check its official guide, but essentially the APP simply works as a very intuitive and customizable interface for running a terminal session directly from your phone. Once you're in, you may deploy a new SSH connection to your Android's internal IP address (SSH connectivity is by default enabled in this APP) and enter in the Pi-Hole environment. ~~After that, we will have to install [**PADD**](https://github.com/pi-hole/PADD) to obtain the more expansive version of the original **chronometer.sh** that is included with [**Pi-Hole**](https://pi-hole.net).~~ > I just found out that with the recent available version, PADD comes installed automatically along the whole** Pi-Hole set up, thumbs up for having to go through even less hassle :smiley:! Here's an example of how it should be run:
 
-https://user-images.githubusercontent.com/92034177/148467895-c1801f37-99ee-49dd-8e46-0a459a614ac0.mp4
+https://user-images.githubusercontent.com/92034177/148468369-31f8b81e-418b-4da9-a080-f3ece3cdbbb9.mp4
 
 2. Now that the whole environment is ready to go, the only thing left for achieving our *kitschy* futuristic look, is to go back on our Linux desktop (assuming you're using one; MacOS has installation support too, but AFAIK,  I am sorry for the sole users of Windows, it's not really available there), and grab a copy of [**cool-retro-term**](https://github.com/Swordfish90/cool-retro-term). I won't get into details about the installation steps here, considering that there's a specific way of having it on each available distribution. Believe me, it will not take you more than 2-3 terminal commands to have it up and running! Here's a quick self-recorded demonstration from which you will be convinced how easy it is to get it:
 
-Insert second gif/video recorded from terminal
+https://user-images.githubusercontent.com/92034177/148468381-c53030be-75e8-4bbd-aa33-3564eaf42ea7.mp4
 
 **[That's it :smiley:!]**
 
