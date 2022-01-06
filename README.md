@@ -38,7 +38,8 @@ Additionally, I have added in this guide few "tweaks" regarding battery manageme
 
 As long as the phone has already been rooted, please regard the installing instructions from the original guide: https://github.com/DesktopECHO/Pi-hole-for-Android. Whereas I have also attempted to **rewrite** or add some additional details/supporting screenshots to make the whole set of instructions even more user-friendly, I still find the original guide to be also straightforward enough, but you can very well make use of the way I have listed the installation steps. However, as I have also stated at the beginning I am not the original creator of these particular resources, thus I could only borrow and adapt the guide to this separate fork project. Now, given everything's clear enough, to shortly sum upmor the steps, you would have to do & ensure of the following:
 
-![Main installation steps](https://svgshare.com/i/dL8.svg)
+![Main installation steps](https://i.imgur.com/YGRdeFB.png)
+
 **[Summary of the overall installation steps]**
 Download Linux Deploy APK on your chosen device. While it's officially available on the Play Store (or any safe 3rd APP store - I strongly suggest giving **Aurora Store** a go). Alternatively it can also be downloaded from the original GitHub sources:
 
