@@ -1,7 +1,9 @@
 
 #  [Pi-Hole-on-Android-through-linux-image-server](https://github.com/Kipferl-OS/Pi-Hole-on-Android-through-linux-image-server)
 
-![Final result of the project!](https://i.imgur.com/FtYouRB.jpeg)![And there goes another one!](https://i.ibb.co/4W8v4CG/IMG-0993.gif)
+![Final result of the project!](https://i.imgur.com/FtYouRB.jpeg)
+
+![And there goes another one!](https://i.ibb.co/4W8v4CG/IMG-0993.gif)
 
 ## Disclaimer 
 The following guide does not contain **ANY resources** that I personally own or have originally created so far, for which the contents should **rather be seen as a collection of various projects/documentation/tests that I have used myself in order to better compile a custom set of instructions**. The overall purpose would specifically and (almost) exclusively be to describe how an old android phone can be used to act as a Pi-hole server that can efficiently mitigate and get rid of most of website's ads. Not only, custom website block lists can be created with the purpose of filtering and getting rid of most commonly accessed fake news/misinformation websites (I do not own the block lists either). Ultimately, the whole project can turn in a very nice "aesthetic" (for whoever would take it as that) setup with the help of few nice apps available on **Android** and **Linux** :) (you can get these working on Windows as well, but I won't get into details about that). 
@@ -33,6 +35,7 @@ Additionally, I have added in this guide few "tweaks" regarding battery manageme
 ## Instructions
 
 **[Getting Pi-hole running on Android]**
+
 As long as the phone has already been rooted, please regard the installing instructions from the original guide: https://github.com/DesktopECHO/Pi-hole-for-Android. Whereas I have also attempted to **rewrite** or add some additional details/supporting screenshots to make the whole set of instructions even more user-friendly, I still find the original guide to be also straightforward enough, but you can very well make use of the way I have listed the installation steps. However, as I have also stated at the beginning I am not the original creator of these particular resources, thus I could only borrow and adapt the guide to this separate fork project. Now, given everything's clear enough, to shortly sum upmor the steps, you would have to do & ensure of the following:
 
 ![Main installation steps](https://svgshare.com/i/dL8.svg)
@@ -101,6 +104,7 @@ The original creator of the guide has also provided a third alternative of getti
 There's an additional info section provided by the [original guide](https://github.com/DesktopECHO/Pi-hole-for-Android) that you should check out first!
 
 **[Playing cautiously with your device's battery]**
+
 I think that we can all be very well aware of the fact that a considerable advantage in terms of safety of using an original RaspberryPi device over a simple custom configured Android phone would clearly be the lack of an internal battery. Moreover, the battery itself is not even made to be run as an idle device, under continuous charge! While the whole content does encompass more of a prototype/project attempt of running a Pi-Hole instance on an old phone (and give it almost the same functionality), the idea itself should not under any circumstance be commercialized as a plug-and-play/good-to-go device. The [original creator](https://github.com/DesktopECHO/Pi-hole-for-Android) states something similar too:
 
 >**If your Android device has a battery and was unused for months or years, replace its battery.** Old, worn, or abused Li-ion batteries can fail when pushed back into service. Failure appears as a bulge in the battery, "thermal event" or worse. A new battery makes an excellent [UPS](https://en.wikipedia.org/wiki/Uninterruptible_power_supply) for the tiny Linux box you just provisioned! 
