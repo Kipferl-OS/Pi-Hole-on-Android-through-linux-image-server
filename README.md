@@ -3,7 +3,8 @@
 
 ![Final result of the project!](https://i.imgur.com/FtYouRB.jpeg)
 
-![And there goes another one!](https://i.ibb.co/4W8v4CG/IMG-0993.gif)
+![IMG_0993](https://user-images.githubusercontent.com/92034177/148457542-19e8d429-4a8f-4e4f-a876-61010100f859.GIF)
+
 
 ## Disclaimer 
 The following guide does not contain **ANY resources** that I personally own or have originally created so far, for which the contents should **rather be seen as a collection of various projects/documentation/tests that I have used myself in order to better compile a custom set of instructions**. The overall purpose would specifically and (almost) exclusively be to describe how an old android phone can be used to act as a Pi-hole server that can efficiently mitigate and get rid of most of website's ads. Not only, custom website block lists can be created with the purpose of filtering and getting rid of most commonly accessed fake news/misinformation websites (I do not own the block lists either). Ultimately, the whole project can turn in a very nice "aesthetic" (for whoever would take it as that) setup with the help of few nice apps available on **Android** and **Linux** :) (you can get these working on Windows as well, but I won't get into details about that). 
