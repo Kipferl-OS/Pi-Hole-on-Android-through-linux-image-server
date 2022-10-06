@@ -43,7 +43,7 @@ As long as the phone has already been rooted, please regard the installing instr
 
 **[Summary of the overall installation steps]**
 
-Download Linux Deploy APK on your chosen device. While it's officially available on the Play Store (or any safe 3rd APP store - I strongly suggest giving **Aurora Store** a go). Alternatively, it can be downloaded from the original GitHub sources:
+Download Linux Deploy APK on your chosen device. While it's officially available on the Play Store (or any safe 3rd APP store - I strongly suggest giving **Aurora Store** a go). Alternatively, it can be downloaded from its original GitHub sources:
 
   - Latest version: **https://github.com/meefik/linuxdeploy/releases**
   - For android 4.x older devices: **https://github.com/meefik/linuxdeploy/releases/tag/2.5.1**
